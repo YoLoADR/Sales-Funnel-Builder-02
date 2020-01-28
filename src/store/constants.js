@@ -4,3 +4,4 @@ export const TEXT_AREA = "TEXT_AREA";
 export const IMAGE = "IMAGE";
 export const EMAIL_FIELD = "EMAIL_FIELD";
 export const FOOTER = "FOOTER";
+export const ADD_COPY = "ADD_COPY";
